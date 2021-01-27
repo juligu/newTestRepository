@@ -1,0 +1,84 @@
+
+Host Name:                 MININT-LFED4N5
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19042 N/A Build 19042
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Microsoft Corp.
+Registered Organization:   Microsoft IT
+Product ID:                00330-80000-00000-AA670
+Original Install Date:     6/23/2020, 11:58:21 AM
+System Boot Time:          1/18/2021, 2:58:11 PM
+System Manufacturer:       Microsoft Corporation
+System Model:              Surface Book 2
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1910 Mhz
+BIOS Version:              Microsoft Corporation 390.3279.768, 1/1/1601
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,305 MB
+Available Physical Memory: 6,512 MB
+Virtual Memory: Max Size:  35,761 MB
+Virtual Memory: Available: 18,519 MB
+Virtual Memory: In Use:    17,242 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    workgroup
+Logon Server:              \\MININT-LFED4N5
+Hotfix(s):                 14 Hotfix(s) Installed.
+                           [01]: KB4578968
+                           [02]: KB4537759
+                           [03]: KB4557968
+                           [04]: KB4560366
+                           [05]: KB4561600
+                           [06]: KB4562830
+                           [07]: KB4566785
+                           [08]: KB4570334
+                           [09]: KB4577266
+                           [10]: KB4580325
+                           [11]: KB4586864
+                           [12]: KB4593175
+                           [13]: KB4598481
+                           [14]: KB4598242
+Network Card(s):           6 NIC(s) Installed.
+                           [01]: Marvell AVASTAR Wireless-AC Network Controller
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.0.0.1
+                                 IP address(es)
+                                 [01]: 10.0.0.246
+                                 [02]: fe80::e54a:36f9:3803:d151
+                                 [03]: 2601:47:4600:e400:402b:d3c9:d1ec:56c0
+                                 [04]: 2601:47:4600:e400:e54a:36f9:3803:d151
+                                 [05]: 2601:47:4600:e400::772
+                           [02]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Default Switch)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.26.112.1
+                                 [02]: fe80::61da:5a1a:786f:e539
+                           [03]: Xbox Wireless Adapter for Windows
+                                 Connection Name: Local Area Connection
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                           [04]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (nat)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.22.80.1
+                                 [02]: fe80::f997:37f0:4017:a762
+                           [05]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (WSL)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.17.112.1
+                                 [02]: fe80::c070:e47e:f3e4:44ab
+                           [06]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
