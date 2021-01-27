@@ -78,7 +78,7 @@ Network Card(s):           6 NIC(s) Installed.
                                  IP address(es)
                                  [01]: 172.17.112.1
                                  [02]: fe80::c070:e47e:f3e4:44ab
-                           [06]: Bluetooth Device (Personal Area Network)
+                           [06]: Bluetooth Device (Personal Area 342Network)
                                  Connection Name: Bluetooth Network Connection
                                  Status:          Media disconnected
 Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
