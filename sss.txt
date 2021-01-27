@@ -1,6 +1,5 @@
 
-Host Name:                 MININT-LFED4N5 
-NEW LINE
+Host Name:                 MININT-LFED4N5
 OS Name:                   Microsoft Windows 10 Enterprise
 OS Version:                10.0.19042 N/A Build 19042
 OS Manufacturer:           Microsoft Corporation
@@ -24,10 +23,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
 Total Physical Memory:     16,305 MB
-Available Physical Memory: 6,512 MB
+Available Physical Memory: 6,546 MB
 Virtual Memory: Max Size:  35,761 MB
-Virtual Memory: Available: 18,519 MB
-Virtual Memory: In Use:    17,242 MB
+Virtual Memory: Available: 18,264 MB
+Virtual Memory: In Use:    17,497 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    workgroup
 Logon Server:              \\MININT-LFED4N5
@@ -83,15 +82,3 @@ Network Card(s):           6 NIC(s) Installed.
                                  Connection Name: Bluetooth Network Connection
                                  Status:          Media disconnected
 Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
-
-
-
-
-
-
-
-
-
-
-
-asdasd
