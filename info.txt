@@ -1,5 +1,6 @@
 
-Host Name:                 MININT-LFED4N5
+Host Name:                 MININT-LFED4N5 
+NEW LINE
 OS Name:                   Microsoft Windows 10 Enterprise
 OS Version:                10.0.19042 N/A Build 19042
 OS Manufacturer:           Microsoft Corporation
